@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samral Tahirli</h1>
-<h3 align="center">AI student from Azerbaijan In Bologna</h3>
+<h3 align="center">AI student from Azerbaijan In Unibo</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samraltahirli&label=Profile%20views&color=0e75b6&style=flat" alt="samraltahirli" /> </p>
